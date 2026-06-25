@@ -1,18 +1,14 @@
 <?php
 
-class Persona
-{
-    public function saludar()
-    {
-        echo "hola este es el primer ejercicio con programacion orientada a objetos";
-    }
-}
+require_once "../clases/Persona.php";
 
-class Calculador
-{
-}
+$norbey = new $persona();
 
-$persona = new Persona();
-$persona->saludar();
+$norbey->saludar();
+
+$calculador = new $calculador();
+
+$calculador->sumar(10, 5);
+
 
 ?>
