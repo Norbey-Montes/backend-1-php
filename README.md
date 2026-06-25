@@ -1,3 +1,3 @@
 # Norbey Motes Ramirez
 
-## Primera seccion orientada a objetos
+## Primera sesion orientada a objetos
